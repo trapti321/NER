@@ -37,3 +37,25 @@ def ner(text)
      html = html.replace("\n\n","\n")
      result = HTML_WRAPPER.format(html)
 ```
+## References
+Visit: https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-recognition/ 
+Visit: https://pypi.org/project/wikipedia-ner/
+
+
+### Also you can do with Jupyter Notebook
+## Inbuild library ***Wikipedia***
+
+```python
+import wikipedia
+from spacy import displacy
+sp = spacy.load('en_core_web_sm')
+
+strr = input('Enter your search:')
+print(wikipedia.search(strr)) #sentence=5))
+complete_content = wikipedia.page(strr)
+print(complete_content.content)
+
+sen = sp(complete_content.content)
+displacy.render(sen, style='ent', jupyter=True)
+
+```
