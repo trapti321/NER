@@ -38,8 +38,8 @@ def ner(text)
      result = HTML_WRAPPER.format(html)
 ```
 ## References
-Visit: https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-recognition/ 
-Visit: https://pypi.org/project/wikipedia-ner/
+### Visit: https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-recognition/ 
+### Visit: https://pypi.org/project/wikipedia-ner/
 
 
 ### Also you can do with Jupyter Notebook
