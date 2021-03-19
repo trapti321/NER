@@ -25,7 +25,7 @@ We use the run function to only run the application on the server when this scri
 Start the Command Prompt.
 Navigate to our Named-Entity-Extractor folder.
 
-### Open your Web browser, copy-paste ``“http://127.0.0.1:5000/”`` into the address bar, and we will see this form.
+### Open your Web browser, copy-paste ~~“http://127.0.0.1:5000/”~~ into the address bar, and we will see this form.
 
 Visit: https://github.com/trapti321/NER/blob/ner/Doc3.png
 
