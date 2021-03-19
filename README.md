@@ -2,7 +2,7 @@
 NLP Named Entity Recognition using NLTK and Spacy
 
 
-```flask
+```python
 def ner(text)   
     docx = nlp(text)
      html = displacy.render(docx,style="ent")
