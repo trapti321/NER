@@ -27,8 +27,6 @@ Navigate to our Named-Entity-Extractor folder.
 
 ### Open your Web browser, copy-paste ~~“http://127.0.0.1:5000/”~~ into the address bar, and we will see this form.
 
-Visit: https://github.com/trapti321/NER/blob/ner/Output.png
-
 
 ```python
 def ner(text)   
@@ -62,3 +60,5 @@ displacy.render(sen, style='ent', jupyter=True)
 
 ### Input :   https://github.com/trapti321/NER/blob/ner/Input.png
 ### Output :  : https://github.com/trapti321/NER/blob/ner/Output.png
+
+### Thanks 
