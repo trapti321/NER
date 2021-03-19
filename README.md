@@ -61,4 +61,4 @@ displacy.render(sen, style='ent', jupyter=True)
 ### Input :   https://github.com/trapti321/NER/blob/ner/Input.png
 ### Output :  : https://github.com/trapti321/NER/blob/ner/Output.png
 
-### Thanks 
+### Thanks for Visiting Here :innocent:
