@@ -1,7 +1,11 @@
 ## Hi :grinning:
 
-## NER
-NLP Named Entity Recognition using NLTK and Spacy
+
+## Here In, this i have build a web app, which scrap the data from wikipedia :sunglasses:
+
+# NER NLP Named Entity Recognition using NLTK and Spacy :dizzy:
+
+
  
 
 
